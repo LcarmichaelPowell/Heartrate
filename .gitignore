@@ -26,3 +26,7 @@
 /Math32.asm
 *.lst
 *.bat
+*.asm
+*.lkr
+*.map
+
